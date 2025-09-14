@@ -1,7 +1,6 @@
-![I am mern stack developer](https://media.licdn.com/dms/image/v2/D4D03AQFySCnIGdRDcg/profile-displayphoto-crop_800_800/B4DZlBixhgIEAI-/0/1757741259728?e=1760572800&v=beta&t=SLoFSDTPImiadshsWlzi5k5SSPEsPuEpN561ZDXzePk)
-
 ### Hi there 👋, my name is Mutasim Billah
 #### I am mern stack developer
+![I am mern stack developer](https://i.ibb.co.com/CKtK8HCh/Navy-Blue-Modern-Business-Facebook-Cover.png)
 
 I’m a MERN stack developer with expertise in MongoDB, Express.js, React.js, and Node.js. I enjoy building full-stack applications that are user-friendly, efficient, and scalable.”
 
