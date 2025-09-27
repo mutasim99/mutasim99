@@ -4,7 +4,7 @@
 
 I’m a MERN stack developer with expertise in MongoDB, Express.js, React.js, and Node.js. I enjoy building full-stack applications that are user-friendly, efficient, and scalable.”
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / Next.js
 
 - 🌱 I’m currently learning Node.js and AWS 
 - 👯 I’m looking to collaborate on Open-source projects and innovative web apps 
